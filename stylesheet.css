@@ -43,6 +43,11 @@
       .Playlist1Text {
         text-align: center;
       }
+      
+      body {
+        background-color: black;
+        color: white;
+      }
 
       .titleimg {
         height: 150px;
