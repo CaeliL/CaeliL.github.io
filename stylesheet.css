@@ -13,30 +13,34 @@
       }
       
       .MyFavoritesTag {
-        border: 5px solid white;
+        border: 2px solid white;
         border-radius: 25px 25px 25px 25px;
         padding: 5px;
+        width: 95px;
       }
       
       .Playlist2 {
-        border: 5px solid white;
+        border: 2px solid white;
         border-radius: 25px 25px 25px 25px;
         padding: 5px;
+        width: 75px;
       }
       .Playlist3 {
-        border: 5px solid white;
+        border: 2px solid white;
         border-radius: 25px 25px 25px 25px;
         padding: 5px;
+        width: 75px;
       }
       .Playlist4 {
-        border: 5px solid white;
+        border: 2px solid white;
         border-radius: 25px 25px 25px 25px;
         padding: 5px;
+        width: 75px;
       }
-      h1 {
+      .Playlist1Title {
         text-align: center;
       }
-      h4 {
+      .Playlist1Text {
         text-align: center;
       }
 
