@@ -58,3 +58,13 @@
         position: sticky;
         top: 0;
       }
+      .songimg {
+        width: 75px;
+        height: 75px;
+        border-radius: 5px 5px 5px 5px;
+      }
+      
+      .container {
+        display: flex;
+        justify-content: space-between;
+      }
